@@ -12,12 +12,12 @@ This should trigger the issue.
 
 This was observed using the following:
 
-VScode Version: 1.41.1
-Commit: 26076a4de974ead31f97692a0d32f90d735645c0
-Date: 2019-12-18T14:57:51.166Z
-Electron: 6.1.5
-Chrome: 76.0.3809.146
-Node.js: 12.4.0
-V8: 7.6.303.31-electron.0
-OS: Darwin x64 19.2.0
-ESLint Plugin: 2.0.15
+- VScode Version: 1.41.1
+- Commit: 26076a4de974ead31f97692a0d32f90d735645c0
+- Date: 2019-12-18T14:57:51.166Z
+- Electron: 6.1.5
+- Chrome: 76.0.3809.146
+- Node.js: 12.4.0
+- V8: 7.6.303.31-electron.0
+- OS: Darwin x64 19.2.0
+- ESLint Plugin: 2.0.15
